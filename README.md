@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm final year undergraduate from faculty of Engineering,University of Jaffna</h1>
+<h2 align="center">Hi 👋, I'm a final-year undergraduate student from the Faculty of Engineering at the University of Jaffna.</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nipuna vishwajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipuna vishwajith" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nipuna-vishwajith-6a17b8248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nipuna-vishwajith-6a17b8248" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
